@@ -11,9 +11,9 @@ const CONFIG = {
     btnYes: 'Yêu bé nhứt trên đời',
     btnNo: 'Hong nha bà',
     question: 'Anh cho em biết lý do vì sao anh lại yêu em đi',
-    btnReply: 'Gửi cho bé <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <3 ',
-    mess: 'Em biết mà. Em cũng yêu anh <3',
+    btnReply: 'Gửi cho bé',
+    reply: 'Yêu thì yêu mà không yêu thì yêu',
+    mess: 'Em biết mà. Em cũng yêu anh',
     messDesc: 'Hẹn anh tháng hè oi ả, mình đi ăn kem Tràng Tiền nho',
     btnAccept: 'Ocii',
     messLink: 'https://https://seapdh.github.io/Confess-Crush/
