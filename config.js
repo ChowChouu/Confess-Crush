@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Send to",
+    introTitle: 'Nguyễn Minh Khương',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    btnIntro: 'Nhấn vào đây nè',
+    title: 'Anh có yêu em hong?',
+    desc: 'Đố anh nhấn được màu xanh đấyyy',
+    btnYes: 'Yêu bé nhứt trên đời',
+    btnNo: 'Hong nha bà',
+    question: 'Anh cho em biết lý do vì sao anh lại yêu em đii👉🏻👈🏻',
+    btnReply: 'Gửi cho bé ❤️',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',❤️
+    mess: 'Em biết mà. Em cũng yêu anh❤️❤️',
+    messDesc: 'Hẹn anh tháng hè oi ả, mình đi ăn kem Tràng Tiền nho🍨💏',
+    btnAccept: 'Ocii',
+    messLink: 'https://https://www.facebook.com/profile.php?id=100085321164978
 }
